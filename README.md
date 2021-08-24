@@ -7,12 +7,17 @@
 <strong> Cidade: Schroeder/SC </strong> <br>
 <strong> Universidade: SENAC-SC  </strong> <br>
 
+
+  
 ### Sobre mim
 <p> 
   Hello everybody eu sou o Carlos, sou amante da tecnologia e desde sempre me interessei pela area da informatica, atualmente trabalho na areá do suporte, onde aprendi muito sobre a parte de infraestrutura e redes, pretendo muito usar isso para minha carreira de desenvolvimento. Outro fato não muito util é que eu AMO café! 
 </p>
+  
+
 
 ### Contatos 
+
 <a href="https://github.com/carlosPauli"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/carlos-pauli-728939184/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href=""> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
