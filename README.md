@@ -2,10 +2,10 @@
 
 ### Quem sou eu??
 
-<strong> 🧔 Nome: Carlos Roberto Pauli </strong> <br>
-<strong> 🧔 Idade: 21 Years </strong> <br>
-<strong> 🏠 Cidade: Schroeder/SC </strong> <br>
-<strong> 🎓 Universidade: SENAC-SC  </strong> <br>
+<strong> Nome: Carlos Roberto Pauli </strong> <br>
+<strong> Idade: 21 Years </strong> <br>
+<strong> Cidade: Schroeder/SC </strong> <br>
+<strong> Universidade: SENAC-SC  </strong> <br>
 
 
   
