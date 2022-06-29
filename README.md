@@ -5,7 +5,7 @@
 <strong> My Name: Carlos Roberto Pauli </strong> <br>
 <strong> My Age: 22y </strong> <br>
 <strong> My Adress: Schroeder - SC  </strong> <br>
-<strong> My Stack: Famoso estagiario. </strong> <br>
+<strong> My Stack: Not In. </strong> <br>
 
 
 ### Public Information
