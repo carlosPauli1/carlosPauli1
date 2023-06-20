@@ -3,9 +3,9 @@
 ### About Me
 
 <strong> My Name: Carlos Roberto Pauli </strong> <br>
-<strong> My Age: 22y </strong> <br>
+<strong> My Age: 23y </strong> <br>
 <strong> My Adress: Schroeder - SC  </strong> <br>
-<strong> My Stack: Not In. </strong> <br>
+<strong> My Role: Junior Developer VB.NET in Movtech System . </strong> <br>
 
 
 ### Public Information
