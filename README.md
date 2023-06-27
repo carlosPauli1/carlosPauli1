@@ -31,7 +31,7 @@ A young man passionate about technology and coffee! I currently live in Schroede
 
 ### Curiosities 
 
-* I love coffe and Dogs
+* I love coffe, Dogs and Cats
 * Passionate about technology about 5 years ago
 * Currently i'm workin with a Help desk support
 
