@@ -5,7 +5,7 @@
 <strong> My Name: Carlos Roberto Pauli </strong> <br>
 <strong> My Age: 23y </strong> <br>
 <strong> My Adress: Schroeder - SC  </strong> <br>
-<strong> My Role: Junior Developer VB.NET in Movtech System . </strong> <br>
+<strong> My Role: Junior Developer C# | VB.NET . </strong> <br>
 
 
 ### Public Information
@@ -31,9 +31,8 @@ Um jovem apaixonado por tecnologia e café! Atualmente moro em Schroeder em Sant
 
 ### Curiosities 
 
-* I love coffe, Dogs and Cats
-* Passionate about technology about 5 years ago
-* Junior Developer
+* Amante do café e dos animais
+* Desenvolvedor Junior
 
 
 ### Isso é tudo 
