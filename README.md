@@ -10,7 +10,7 @@
 
 ### Public Information
 <p>
-A young man passionate about technology and coffee! I currently live in Schroeder in Santa Catarina and I seek to bring knowledge to people while I learn together with them inside my twitch channel <www.twitch.tv/Carll1nn> where our focus is to program, study, learn to develop and have a good laugh , below you have my contact details and some of my Skills.
+Um jovem apaixonado por tecnologia e café! Atualmente moro em Schroeder em Santa Catarina e procuro levar conhecimento para as pessoas enquanto aprendo junto com elas dentro do meu canal Twitch <www.twitch.tv/Carll1nn> onde nosso foco é programar, estudar, aprender para se desenvolver e ter um boas risadas, abaixo você tem meus dados de contato e algumas de minhas habilidades.
 <p>
   
   <div>
