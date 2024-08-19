@@ -4,13 +4,13 @@
 
 <strong> My Name: Carlos Roberto Pauli </strong> <br>
 <strong> My Age: 24y </strong> <br>
-<strong> My Adress: Schroeder - SC  </strong> <br>
+<strong> My Adress: Santa Catarina - Brasil </strong> <br>
 <strong> My Role: Junior Developer C# | VB.NET . </strong> <br>
 
 
 ### Public Information
 <p>
-Um jovem apaixonado por tecnologia e café! Atualmente moro em Schroeder em Santa Catarina e procuro levar conhecimento para as pessoas enquanto aprendo junto com elas dentro do meu canal Twitch <www.twitch.tv/Carll1nn> onde nosso foco é programar, estudar, aprender para se desenvolver e ter um boas risadas, abaixo você tem meus dados de contato e algumas de minhas habilidades.
+Um jovem apaixodado por tecnlogia e café. Atuo como desenvolvedor a cerca de um ano e meio e estou no mercado de TI a cerca de 4 anos. Aprendi muito errei também. Buscando evolução a cada dia e buscando ensinar outras pessoas de forma simples e divertida.
 <p>
   
   <div>
@@ -29,10 +29,11 @@ Um jovem apaixonado por tecnologia e café! Atualmente moro em Schroeder em Sant
 
 </div>
 
-### Curiosities 
+### Curiosidades sobre mim
 
-* Amante do café e dos animais
-* Desenvolvedor Junior
+* Amante de café e dos animais
+* Apaixonado pela cultura geek
+* Entusiasta da criação de conteudo.
 
 
 ### Isso é tudo 
