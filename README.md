@@ -3,9 +3,9 @@
 ### About Me
 
 <strong> My Name: Carlos Roberto Pauli </strong> <br>
-<strong> My Age: 24y </strong> <br>
+<strong> My Age: 25y </strong> <br>
 <strong> My Adress: Santa Catarina - Brasil </strong> <br>
-<strong> My Role: Junior Developer C# | VB.NET . </strong> <br>
+<strong> My Role: Junior Developer </strong> <br>
 
 
 ### Public Information
